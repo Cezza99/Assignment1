@@ -1,5 +1,6 @@
 1187460
 
+## Gelati
 
-[Gelato Banana Split](./banana_split.md)
-[Coppa Nafta](./coppa_nafta.md)
+[Gelato Banana Split](./Gelati/banana_split.md)
+[Coppa Nafta](./Gelati/coppa_nafta.md)
